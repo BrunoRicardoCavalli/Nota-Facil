@@ -1,0 +1,6 @@
+@NotaFacil.InventoryService_HostAddress = http://localhost:5080
+
+GET {{NotaFacil.InventoryService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

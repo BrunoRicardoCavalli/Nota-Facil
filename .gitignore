@@ -1,0 +1,27 @@
+# --- Geral ---
+*.log
+*.tmp
+.vscode/
+node_modules/
+dist/
+build/
+.env
+.env.*
+
+# --- Angular ---
+.angular/
+.angular/cache/
+
+# --- ASP.NET / C# ---
+bin/
+obj/
+*.user
+*.rsuser
+
+# --- Banco de dados SQLite ---
+*.db
+*.db-journal
+
+# --- Sistema operacional ---
+.DS_Store
+Thumbs.db

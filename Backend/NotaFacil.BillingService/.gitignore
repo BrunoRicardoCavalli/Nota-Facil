@@ -1,0 +1,17 @@
+# Diretórios de build
+bin/
+obj/
+node_modules/
+
+# Banco local
+*.db
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Arquivos do Visual Studio / VS Code
+.vscode/
+*.user
+*.suo
+*.vs/
